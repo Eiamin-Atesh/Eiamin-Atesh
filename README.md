@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Programing Projects
-- 📫 How to reach me ateshmdeamin@gmail.com
+- 📫 How to reach me eiaminatesh@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I’m a self-taught Python programmer.
 
